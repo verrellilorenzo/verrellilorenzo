@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verrellilorenzo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and php lenguage
+- 🌱 I’m currently learning JavaScript and php language
 
 
 <!---
